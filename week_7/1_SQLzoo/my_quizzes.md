@@ -8,8 +8,7 @@
 <!-- Include the link to your image (saved in the imgs folder) to display it inline. -->
 
 
-
-
+![imgs](../imgs/sqlzoo_quiz.jpg)
 
 
 ### Reflection
